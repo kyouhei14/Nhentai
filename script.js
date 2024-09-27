@@ -55,7 +55,7 @@ function stopCarret() {
         sauce.classList.remove("disabled")
         sauce.classList.remove("btn-outline-primary")
         sauce.classList.add("btn-primary")
-        sauce.innerHTML = "Tap Me Senpai!"
+        sauce.innerHTML = "Tap Me !"
         break;
       case numbers.value.length == 6:
         numbers.readOnly = true
